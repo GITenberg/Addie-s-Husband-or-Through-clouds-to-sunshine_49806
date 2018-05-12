@@ -1,10 +1,16 @@
 _repo: Addie-s-Husband-or-Through-clouds-to-sunshine_49806
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49806-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Smythies, Mrs. Gordon
     gutenberg_agent_id: '45550'
     url: http://www.gutenberg.org/2009/agents/45550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49806#Addie-s-Husband-or-Through-clouds-to-sunshine
 gutenberg_issued: '2015-08-28'
 gutenberg_type: Text
 identifiers:
